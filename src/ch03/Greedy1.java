@@ -2,7 +2,7 @@ package ch03;
 
 import java.util.Scanner;
 
-// °Å½º¸§µ·
+// ê±°ìŠ¤ë¦„ëˆ
 public class Greedy1 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
