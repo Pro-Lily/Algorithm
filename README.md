@@ -16,5 +16,4 @@
 
 |날짜|문제 이름|
 |---|---|
-|||
-|||
+|2022-01-07|<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/programmers/level1/K번째수.java"> K번째수 </a>|
