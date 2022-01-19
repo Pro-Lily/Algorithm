@@ -11,6 +11,9 @@
 ||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy1.java"> 11-1) 모험가 길드  </a>|
 ||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy2.java"> 11-2) 곱하기 혹은 더하기  </a>|
 |2022-01-07|<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy3.java"> 11-3) 문자열 뒤집기 </a>|
+|2022-01-20|<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy4.java"> 11-4) 만들 수 없는 금액 </a>|
+||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy5.java"> 11-5) 볼링공 고르기 </a>|
+||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy6.java"> 11-6) 무지의 먹방 라이브 </a>|
 
 #### Programmers
 
