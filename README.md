@@ -14,7 +14,8 @@
 |2022-01-20|<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy4.java"> 11-4) 만들 수 없는 금액 </a>|
 ||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy5.java"> 11-5) 볼링공 고르기 </a>|
 ||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch11/Greedy6.java"> 11-6) 무지의 먹방 라이브 (효율성 안좋음) </a>|
-|2022-01-21|<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch04/Impl1.java"> 4-1) 상하좌우 </a>|
+|2022-01-21|4-1) 상하좌우 <a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch04/Impl1.java"> [1] </a>
+ <a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch04/Impl1_1.java"> [2] </a>|
 
 #### Programmers
 
