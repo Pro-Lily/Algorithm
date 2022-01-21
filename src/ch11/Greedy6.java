@@ -4,32 +4,30 @@ package ch11;
 // https://programmers.co.kr/learn/courses/30/lessons/42891
 public class Greedy6 {
 	static int solution(int[] food_times, long k) {
-		// 더 섭취해야 할 음식이 없다면 -1을 반환
 		long zero = 0;
-		for (int i = 0; i < food_times.length; i++) {
-			zero += food_times[i];
-		}
-		if (zero <= k) {
-			return -1;
-		}
-
 		int answer = 0;
 		int time = -1;
 
 		while (true) {
 			for (int i = 0; i < food_times.length; i++) {
+				zero += food_times[i];
+
 				if (k == time) {
 					break;
 				}
 				if (food_times[i] == 0) {
 					continue;
 				}
-				food_times[i] -= 1;
+				food_times[i]--;
 				time++;
 				answer = i + 1; // 0번째니까 +1
 			}
 			if (k == time) {
 				break;
+			}
+			// 더 섭취해야 할 음식이 없다면 -1을 반환
+			if (zero <= k) {
+				return -1;
 			}
 		}
 		return answer;
