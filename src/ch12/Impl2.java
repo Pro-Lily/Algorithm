@@ -20,7 +20,7 @@ public class Impl2 {
 
 		for (int i = 0; i < N.length; i++) {
 			char c = N[i].charAt(0);
-			if (c >= 65) {
+			if (Character.isLetter(c)) {
 				list.add(c);
 			} else {
 				num += c - '0';
@@ -31,7 +31,7 @@ public class Impl2 {
 			System.out.print(list.get(i));
 		}
 
-		if (num != 0) {
+		if (num > 0) {
 			System.out.println(num);
 		}
 	}
