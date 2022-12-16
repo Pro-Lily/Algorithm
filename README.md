@@ -20,9 +20,3 @@
 ||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch04/Impl4.java"> 4-4) 게임 개발 </a>|
 ||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch12/Impl1.java"> 12-1) 럭키 스트레이트 </a>|
 ||<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/ch12/Impl2.java"> 12-2) 문자열 재정렬 </a>|
-
-#### Programmers
-
-|날짜|문제 이름|
-|---|---|
-|2022-01-07|<a href="https://github.com/Pro-Judy/Algorithm/blob/main/src/programmers/level1/K번째수.java"> K번째수 </a>|
